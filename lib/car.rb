@@ -1,2 +1,2 @@
-class Car < Vehicle 
+class Car < Vehicle
 end
